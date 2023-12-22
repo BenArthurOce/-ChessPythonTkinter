@@ -1,0 +1,1043 @@
+<openings>
+
+
+    <opening>
+        <name>Caro-Kann Defense</name>
+        <url>https://www.chess.com/openings/Caro-Kann-Defense</url>
+        <annotation>1.e4 c6</annotation>
+        <volume>Volume B: Semi-Open Games other than the French Defence</volume>
+        <eco>B10</eco>
+        <strategy>Prepares for 2...d5 without blocking in the light-squared bishop</strategy>
+        <note>Known above all for its solidity</note>
+        <variations>
+            <variation>
+                <variation-name>Classical Variation</variation-name>
+                <variation-notation>1.e4 c6 2.d4 d5</variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation>
+                <variation-name>Classical Variation</variation-name>
+                <variation-notation>1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4</variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation>
+                <variation-name>Karpov Variation</variation-name>
+                <variation-notation>1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nd7</variation-notation>
+                <variation-notes>5.Nf3 Nf6, White plays 6.Ng3 almost as often as 6.Nxf6. The bishop remains boxed in on c8, just by the knight on d7 instead of a pawn on e6</variation-notes>
+            </variation>
+            <variation>
+                <variation-name></variation-name>
+                <variation-notation>1.e4 c6 2.d4 d5</variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation>
+                <variation-name>Advance Variation - Shirov Variation</variation-name>
+                <variation-notation>1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nc3</variation-notation>
+                <variation-notes>The main idea of playing g4 and advancing on the kingside</variation-notes>
+            </variation>
+            <variation>
+                <variation-name>Advance Variation - Tal Variation</variation-name>
+                <variation-notation>1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4</variation-notation>
+                <variation-notes>Takes a different path to kingside expansion</variation-notes>
+            </variation>
+            <variation>
+                <variation-name>Advance Variation - Short Variation</variation-name>
+                <variation-notation>1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3</variation-notation>
+                <variation-notes>Aiming for a more positional struggle</variation-notes>
+            </variation>
+            <variation>
+                <variation-name>Exchange Variation</variation-name>
+                <variation-notation>1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3</variation-notation>
+                <variation-notes>When White plays 4.Bd3 the goal is a quiet game (4.c4 results in a much sharper game)</variation-notes>
+            </variation>
+            <variation-best-white>
+                <variation-name>Check article on chess.com</variation-name>
+                <variation-notation>https://www.chess.com/openings/Caro-Kann-Defense#play-against-the-caro-kann</variation-notation>
+                <variation-notes></variation-notes>
+            </variation-best-white>
+            <variation-best-black>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation-best-black>
+        </variations>
+        <pros>
+            <pro>Sound pawn structure</pro>
+            <pro>Free light-squared bishop</pro>
+            <pro>Safe and solid</pro>
+        </pros>
+        <cons>
+            <con>Less space for black</con>
+            <con>Slower development</con>
+            <con>There are many different responses for White</con>
+        </cons>
+    </opening>
+
+
+    <opening>
+        <name>Catalan Opening</name>
+        <url>https://www.chess.com/openings/Catalan-Opening</url>
+        <annotation>1.d4 Nf6 2.c4 e6 3.g3</annotation>
+        <volume></volume>
+        <eco></eco>
+        <strategy>White will aim for long-term positional pressure in the center and on Black's queenside</strategy>
+        <note></note>
+        <variations>
+            <variation>
+                <variation-name>Open Catalan</variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation>
+                <variation-name>Closed Catalan</variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation>
+                <variation-name>Anti-Catalan</variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation-best-white>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation-best-white>
+            <variation-best-black>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation-best-black>
+        </variations>
+        <pros>
+            <pro>Positionally subtle</pro>
+            <pro>Can lead to long-term pressure</pro>
+        </pros>
+        <cons>
+            <con>The c4 pawn can be vulnerable</con>
+            <con>Requires advanced technical abilities to win with small advantages</con>
+        </cons>
+    </opening>
+
+    
+    <opening>
+        <name>Danish Gambit</name>
+        <url>https://www.chess.com/openings/Danish-Gambit</url>
+        <annotation>1.e4 e5 2.d4 exd4 3.c3</annotation>
+        <volume></volume>
+        <eco></eco>
+        <strategy></strategy>
+        <note></note>
+        <variations>
+            <variation>
+                <variation-name>Danish Gambit Accepted With 4.Bc4</variation-name>
+                <variation-notation>1.e4 e5 2.d4 exd4 3.c3 dxc3 4.Bc4</variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation>
+                <variation-name>Danish Gambit Accepted With 4.Nxc3</variation-name>
+                <variation-notation>1.e4 e5 2.d4 exd4 3.c3 dxc3 4.Nxc3</variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation>
+                <variation-name>Danish Gambit Declined, Sorensen Defense</variation-name>
+                <variation-notation>1.e4 e5 2.d4 exd4 3.c3 d5 4.exd5</variation-notation>
+                <variation-notes>Black with Qxd5 or Nf6</variation-notes>
+            </variation>
+            <variation>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation-best-white>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation-best-white>
+            <variation-best-black>
+                <variation-name>Not best black move just storing this here</variation-name>
+                <variation-notation>1.e4 e5 2.d4 exd4 3.c3 Qe7</variation-notation>
+                <variation-notes>https://www.youtube.com/watch?v=Nd7ZiSvdwN8</variation-notes>
+            </variation-best-black>
+        </variations>
+        <pros>
+            <pro>It's a good opening for aggressive players.</pro>
+            <pro>It can catch the unprepared opponent off guard.</pro>
+            <pro>It can lead to quick wins.</pro>
+        </pros>
+        <cons>
+            <con></con>
+            <con></con>
+            <con></con>
+        </cons>
+    </opening>
+
+
+    <opening>
+        <name>Dresden Opening</name>
+        <url>https://www.chess.com/openings/Dresden-Opening</url>
+        <annotation>1.e4 e5 2.Nf3 Nc6 3.c4</annotation>
+        <volume>Volume C: Open Games and the French Defence</volume>
+        <eco>C44</eco>
+        <strategy></strategy>
+        <note></note>
+        <variations>
+            <variation>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation-best-white>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation-best-white>
+            <variation-best-black>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation-best-black>
+        </variations>
+        <pros>
+            <pro></pro>
+            <pro></pro>
+            <pro></pro>
+        </pros>
+        <cons>
+            <con></con>
+            <con></con>
+            <con></con>
+        </cons>
+    </opening>
+
+
+
+    <opening>
+        <name>English Opening</name>
+        <url>https://www.chess.com/openings/English-Opening</url>
+        <annotation>1.c4</annotation>
+        <volume></volume>
+        <eco></eco>
+        <strategy></strategy>
+        <note></note>
+        <variations>
+            <variation>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation-best-white>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation-best-white>
+            <variation-best-black>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation-best-black>
+        </variations>
+        <pros>
+            <pro></pro>
+            <pro></pro>
+            <pro></pro>
+        </pros>
+        <cons>
+            <con></con>
+            <con></con>
+            <con></con>
+        </cons>
+    </opening>
+
+
+    <opening>
+        <name>Englund Gambit</name>
+        <url>https://www.chess.com/openings/Englund-Gambit</url>
+        <annotation>1.d4 e5</annotation>
+        <volume>Vol A: Flank Openings</volume>
+        <eco>A40</eco>
+        <strategy></strategy>
+        <note></note>
+        <variations>
+            <variation>
+                <variation-name>Englund Gambit - Main Line</variation-name>
+                <variation-notation>1.d4 e5 2.dxe5 Nc6 3.Nf3 Qe7 4.Bf4 Qb4+ 5.Bd2</variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation>
+                <variation-name>Englund Gambit With 6...Nb4</variation-name>
+                <variation-notation>1.d4 e5 2.dxe5 Nc6 3.Nf3 Qe7 4.Bf4 Qb4+ 5.Bd2 Qxb2 6.Nc3 Nb4</variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation-best-white>
+                <variation-name>Englund Gambit - Main Line</variation-name>
+                <variation-notation>1.d4 e5 2.dxe5 Nc6 3.Nf3 Qe7 4.Bf4 Qb4+ 5.Bd2 Qxb2 6.Nc3 Bb4 7.Rb1 Qa3</variation-notation>
+                <variation-notes>White position will be superior to Black's in all continuations. White to then attack with Nd5</variation-notes>
+            </variation-best-white>
+            <variation-best-black>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation-best-black>
+        </variations>
+        <pros>
+            <pro>Can catch beginners and intermediate players off-guard</pro>
+            <pro>Black can win quickly if White falls for one of the opening's traps</pro>
+        </pros>
+        <cons>
+            <con>It's not hard to avoid the traps and get an excellent position for White</con>
+            <con>Black's position is also strategically bad if they opt not to go for the trap lines</con>
+        </cons>
+    </opening>
+
+
+    <opening>
+        <name>Four Knights Game</name>
+        <url>https://www.chess.com/openings/Four-Knights-Game</url>
+        <annotation>1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6</annotation>
+        <volume></volume>
+        <eco></eco>
+        <strategy></strategy>
+        <note>There doesnt seem to be any variations</note>
+        <variations>
+            <variation>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation-best-white>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation-best-white>
+            <variation-best-black>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation-best-black>
+        </variations>
+        <pros>
+            <pro>Fairly natural play</pro>
+            <pro>Sound and healthy</pro>
+        </pros>
+        <cons>
+            <con>Sometimes drawish</con>
+            <con>Could be a closed position, not ideal for 1.e4 players</con>
+            <con>Sometimes overly simplistic</con>
+        </cons>
+    </opening>
+
+    <opening>
+        <name>French Defense</name>
+        <url>https://www.chess.com/openings/French-Defense</url>
+        <annotation>1.e4 e6</annotation>
+        <volume>Volume C: Open Games and the French Defence</volume>
+        <eco>C00</eco>
+        <strategy></strategy>
+        <note></note>
+        <variations>
+            <variation>
+                <variation-name>Tarrasch Variation</variation-name>
+                <variation-notation>1.e4 e6 2.d4 d5 3.Nd2</variation-notation>
+                <variation-notes>This is the best opening for white. Move to Best White Tag</variation-notes>
+            </variation>
+            <variation>
+                <variation-name>Winawer Variation</variation-name>
+                <variation-notation>1.e4 e6 2.d4 d5 3.Nc3 Bb4</variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation>
+                <variation-name>Classical French</variation-name>
+                <variation-notation>1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5</variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation>
+                <variation-name>Advance Variation</variation-name>
+                <variation-notation>1.e4 e6 2.d4 d5 3.e5</variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation>
+                <variation-name>Exchange Variation</variation-name>
+                <variation-notation>1.e4 e6 2.d4 d5 3.exd5</variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation-best-white>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation-best-white>
+            <variation-best-black>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation-best-black>
+        </variations>
+        <pros>
+            <pro>Solid and sound structure</pro>
+            <pro>Sharp counterattacking possibilities</pro>
+            <pro>Easy to learn</pro>
+        </pros>
+        <cons>
+            <con>Black has a space disadvantage</con>
+            <con>Black's light-squared bishop is locked in</con>
+            <con>Can become passive</con>
+        </cons>
+    </opening>
+
+
+    <opening>
+        <name>Italian Game</name>
+        <url>https://www.chess.com/openings/Italian-Game</url>
+        <annotation>1.e4 e5 2.Nf3 Nc6 3.Bc4</annotation>
+        <volume>Volume C: Open Games and the French Defence</volume>
+        <eco>C50</eco>
+        <strategy>White follows the basic opening principles of fighting for the center and taking care of the king's safety</strategy>
+        <note></note>
+        <variations>
+            <variation>
+                <variation-name>Giuoco Piano</variation-name>
+                <variation-notation>1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5</variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation>
+                <variation-name>Giuoco Pianissimo (1)</variation-name>
+                <variation-notation>1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3</variation-notation>
+                <variation-notes>White keeps the center closed and favors a more positional game</variation-notes>
+            </variation>
+            <variation>
+                <variation-name>Giuoco Pianissimo (2)</variation-name>
+                <variation-notation>1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3</variation-notation>
+                <variation-notes>White keeps the center closed and favors a more positional game</variation-notes>
+            </variation>
+            <variation>
+                <variation-name>Evans Gambit</variation-name>
+                <variation-notation>1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4</variation-notation>
+                <variation-notes>Agressive. White gives up a wing pawn to develop quickly and create a dangerous attack on the enemy king</variation-notes>
+            </variation>
+            <variation>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation-best-white>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation-best-white>
+            <variation-best-black>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation-best-black>
+        </variations>
+        <pros>
+            <pro>Natural play</pro>
+            <pro>Focus on the center</pro>
+            <pro>Rapid development</pro>
+        </pros>
+        <cons>
+            <con>The bishop on c4 might be exposed</con>
+            <con>Black's center is not under immediate pressure</con>
+        </cons>
+    </opening>
+
+    <opening>
+        <name>King's Indian Attack </name>
+        <url>https://www.chess.com/openings/Kings-Indian-Attack</url>
+        <annotation>1.Nf3 d5 2.g3</annotation>
+        <volume>Vol A: Flank Openings</volume>
+        <eco>A07</eco>
+        <strategy></strategy>
+        <note></note>
+        <variations>
+            <variation>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation-best-white>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation-best-white>
+            <variation-best-black>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation-best-black>
+        </variations>
+        <pros>
+            <pro>Flexible</pro>
+            <pro>May lead to a kingside attack</pro>
+            <pro>Not very theoretical</pro>
+        </pros>
+        <cons>
+            <con>Allows Black a strong center</con>
+            <con>Gives Black many different options</con>
+            <con>Does not put immediate pressure on Black</con>
+        </cons>
+    </opening>
+
+    <opening>
+        <name>London System</name>
+        <url>https://www.chess.com/openings/London-System</url>
+        <annotation>1.d4 d5 2.Nf3 Nf6 3.Bf4</annotation>
+        <volume>Vol A: Flank Openings</volume>
+        <eco>A46</eco>
+        <strategy>Very Solid. White can play the same basic setup for almost all of Black's responses</strategy>
+        <note></note>
+        <variations>
+            <variation>
+                <variation-name>London System - Main Line</variation-name>
+                <variation-notation>1. d4 d5 2. Bf4 Nf6 3. e3 c5 4. c3 Nc6 5. Nd2 e6 6. Ngf3 Bd6 7. Bg3 O-O 8. Bd3 b6 9. Qe2 Bb7</variation-notation>
+                <variation-notes>White will usually go for an attack on the kingside. Black will play for a central break or a counter-attack on the queenside</variation-notes>
+            </variation>
+            <variation>
+                <variation-name>London System - Indian Setup</variation-name>
+                <variation-notation>1.d4 Nf6 2.Bf4 g6 3.Nf3 Bg7 4.e3 d6</variation-notation>
+                <variation-notes>Black puts a pawn on g6 to discourage White from developing the light-squared bishop to the active d3-square</variation-notes>
+            </variation>
+            <variation>
+                <variation-name>Jobava London</variation-name>
+                <variation-notation>1.d4 Nf6 2.Nc3 d5 3.Bf4</variation-notation>
+                <variation-notes>White develops the b-knight to c3, to give it a more active square</variation-notes>
+            </variation>
+            <variation-best-white>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation-best-white>
+            <variation-best-black>
+                <variation-name>The Early c5</variation-name>
+                <variation-notation>1.d4 Nf6 2.Bf4 c5</variation-notation>
+                <variation-notes>Black brings the queen out to the queenside with 3...Qb6, where White's dark-square bishop can't help.</variation-notes>
+            </variation-best-black>
+        </variations>
+        <pros>
+            <pro>Hard for Black to get active play</pro>
+            <pro>Difficult for Black to avoid</pro>
+            <pro>A very sound way of getting a playable middlegame</pro>
+        </pros>
+        <cons>
+            <con>Less chance of an attack</con>
+            <con>It puts little immediate pressure on Black</con>
+            <con>The Bf4 can be somewhat exposed</con>
+        </cons>
+    </opening>
+
+
+    
+    <opening>
+        <name>Modern Defense</name>
+        <url>https://en.wikipedia.org/wiki/Modern_Defense</url>
+        <annotation>1.e4 g6</annotation>
+        <volume></volume>
+        <eco>B06</eco>
+        <strategy>Black allows White to occupy the center with pawns on d4 and e4, then proceeds to attack and undermine this "ideal" center without attempting to occupy it</strategy>
+        <note></note>
+        <variations>
+            <variation>
+                <variation-name>Modern Defense - Main Line (ECO B06)</variation-name>
+                <variation-notation>1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.f4 c6 5.Nf3 Bg4</variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation>
+                <variation-name>Modern Defense - Main Line (ECO A40)</variation-name>
+                <variation-notation>1.e4 g6 2.d4 Bg7 3.c4 d6 4.Nc3 Nc6 5.Be3 e5 6.d5 Nce7</variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation-best-white>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation-best-white>
+            <variation-best-black>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation-best-black>
+        </variations>
+        <pros>
+            <pro></pro>
+            <pro></pro>
+            <pro></pro>
+        </pros>
+        <cons>
+            <con></con>
+            <con></con>
+            <con></con>
+        </cons>
+    </opening>
+
+
+    <opening>
+        <name>Petrov's Defense</name>
+        <url>https://www.chess.com/openings/Petrovs-Defense</url>
+        <annotation>1.e4 e5 2.Nf3 Nf6</annotation>
+        <volume>Volume C: Open Games and the French Defence</volume>
+        <eco>C42</eco>
+        <strategy>Black responds to an attack on the e5 pawn by counterattacking the pawn on e4 with the knight. This often leads to a trade of pawns on the e-file.</strategy>
+        <note>The Petrov almost always continues 3.Nxe5 d6 4.Nf3 Nxe4</note>
+        <variations>
+            <variation>
+                <variation-name>Classical Attack</variation-name>
+                <variation-notation>1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3</variation-notation>
+                <variation-notes>Black has several options: 6...Be7, 6...Bd6, 6...Nc6 are most common</variation-notes>
+            </variation>
+            <variation>
+                <variation-name>Nimzowitsch Attack</variation-name>
+                <variation-notation>1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Nc3 Nxc3 6.dxc3 Be7</variation-notation>
+                <variation-notes>White usually castles queenside. Black can either castle short or wait in the center and develop the queenside.</variation-notes>
+            </variation>
+            <variation>
+                <variation-name>COME BACK TO THIS AND LOOK AT TRAPS AND SIDELINES</variation-name>
+                <variation-notation>1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4</variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation-best-white>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation-best-white>
+            <variation-best-black>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation-best-black>
+        </variations>
+        <pros>
+            <pro>Black develops rapidly</pro>
+            <pro>Very sound</pro>
+            <pro>Solid defense</pro>
+        </pros>
+        <cons>
+            <con>In the open positions that result, White has a slight development lead</con>
+            <con>White has some very drawish options</con>
+            <con>There is a lot of theory in some lines</con>
+        </cons>
+    </opening>
+
+    <opening>
+        <name>Philidor Defense</name>
+        <url>https://www.chess.com/openings/Philidor-Defense</url>
+        <annotation>1.e4 e5 2.Nf3 d6</annotation>
+        <volume>Volume C: Open Games and the French Defence</volume>
+        <eco>C41</eco>
+        <strategy>The Philidor Defense is a passive but playable opening for Black</strategy>
+        <note></note>
+        <variations>
+            <variation>
+                <variation-name>Exchange Variation</variation-name>
+                <variation-notation>1.e4 e5 2.Nf3 d6 3.d4 exd4</variation-notation>
+                <variation-notes>Typical continuation 4.Nxd4 Nf6 5.Nc3 Be7</variation-notes>
+            </variation>
+            <variation>
+                <variation-name>Nimzowitsch Variation</variation-name>
+                <variation-notation>1.e4 e5 2.Nf3 d6 3.d4 Nf6</variation-notation>
+                <variation-notes>Black's has its best results of any Philidor line if White plays the typical reply 4.Nc3, but White does very well playing 4.dxe5 instead.</variation-notes>
+            </variation>
+            <variation>
+                <variation-name>Hanham Variation</variation-name>
+                <variation-notation>1.e4 e5 2.Nf3 d6 3.d4 Nd7</variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation-best-white>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation-best-white>
+            <variation-best-black>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation-best-black>
+        </variations>
+        <pros>
+            <pro>Black builds a solid base in the center</pro>
+            <pro>Avoids the Ruy Lopez (2...Nc6 3.Bb5)</pro>
+            <pro>Black leaves the c6 square free, so the c-pawn can later advance</pro>
+        </pros>
+        <cons>
+            <con>Black's central presence is rather passive</con>
+            <con>Blocks in the dark-squared bishop</con>
+        </cons>
+    </opening>
+
+
+    <opening>
+        <name>Queen's Gambit</name>
+        <url>https://www.chess.com/openings/Queens-Gambit</url>
+        <annotation>1.d4 d5 2.c4</annotation>
+        <volume>Volume D: Closed Games and Semi-Closed Games</volume>
+        <eco>D06</eco>
+        <strategy></strategy>
+        <note></note>
+        <variations>
+            <variation>
+                <variation-name>Slav Defense</variation-name>
+                <variation-notation>1.d4 d5 2.c4 c6</variation-notation>
+                <variation-notes>Black declines the gambit and reinforces the central d4-pawn</variation-notes>
+            </variation>
+            <variation>
+                <variation-name>Queen's Gambit Declined</variation-name>
+                <variation-notation>1.d4 d5 2.c4 e6</variation-notation>
+                <variation-notes>Black doesn't take the white pawn on c4 and instead reinforces their center with 2...e6</variation-notes>
+            </variation>
+            <variation>
+                <variation-name>Queen's Gambit Accepted</variation-name>
+                <variation-notation>1.d4 d5 2.c4 dxc4</variation-notation>
+                <variation-notes>Black's light-squared bishop usually finds a good spot on b7 or g4 in this variation</variation-notes>
+            </variation>
+            <variation>
+                <variation-name>Albin Countergambit</variation-name>
+                <variation-notation>1.d4 d5 2.c4 e5</variation-notation>
+                <variation-notes>Risky. This move can lead to wild positions and hidden traps, so White must know how to respond accurately.</variation-notes>
+            </variation>
+            <variation>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation-best-white>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation-best-white>
+            <variation-best-black>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation-best-black>
+        </variations>
+        <pros>
+            <pro>Fights to control the center</pro>
+            <pro>It puts immediate pressure on Black</pro>
+            <pro>Gains space</pro>
+        </pros>
+        <cons>
+            <con>White may have to spend time getting the pawn back</con>
+            <con>Less attacking chances against the black king</con>
+            <con>Black may aim to counterattack d4</con>
+        </cons>
+    </opening>
+
+
+    <opening>
+        <name>Scotch Game</name>
+        <url>https://www.chess.com/openings/Scotch-Game</url>
+        <annotation>1.e4 e5 2.Nf3 Nc6 3.d4</annotation>
+        <volume>Volume C: Open Games and the French Defence</volume>
+        <eco>C44</eco>
+        <strategy></s 
+        trategy>
+        <note></note>
+        <variations>
+            <variation>
+                <variation-name>Schmidt Variation</variation-name>
+                <variation-notation>1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6</variation-notation>
+                <variation-notes>Kasparov introduced the idea of exchanging knights on c6 and following it up with the e4-e5 push, creating an imbalanced and rich position.</variation-notes>
+            </variation>
+            <variation>
+                <variation-name>Classical Variation</variation-name>
+                <variation-notation>1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5</variation-notation>
+                <variation-notes>White should do Nc3 to force bishop back. Then push pawn</variation-notes>
+            </variation>
+            <variation>
+                <variation-name>Goring Gambit</variation-name>
+                <variation-notation>1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3</variation-notation>
+                <variation-notes>White gambits a pawn to quickly develop the b1-knight.</variation-notes>
+            </variation>
+            <variation-best-white>
+                <variation-name>Schmidt Variation With 5.Nxc6</variation-name>
+                <variation-notation>1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 bxc6</variation-notation>
+                <variation-notes>White then pushes the e-pawn. The resulting position leads to a sharp game</variation-notes>
+            </variation-best-white>
+            <variation-best-black>
+                <variation-name>Malaniuk Variation</variation-name>
+                <variation-notation>1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bb4+</variation-notation>
+                <variation-notes>This line is even more successful among amateurs, with Black outscoring White.</variation-notes>
+            </variation-best-black>
+        </variations>
+        <pros>
+            <pro>White virtually guarantees himself a space advantage.</pro>
+            <pro>Black is unable to maintain the e5 point.</pro>
+            <pro>It avoids the well-analyzed Ruy Lopez.</pro>
+        </pros>
+        <cons>
+            <con>It releases the tension very early.</con>
+            <con>Recapturing the d4 pawn will require a second move by the white knight.</con>
+            <con>The e4 pawn can later come under attack.</con>
+        </cons>
+    </opening>
+    
+
+    <opening>
+        <name>Sicilian Defense</name>
+        <url>https://www.chess.com/openings/Sicilian-Defense</url>
+        <annotation>1.e4 c5</annotation>
+        <volume>Volume B: Semi-Open Games other than the French Defence</volume>
+        <eco>B20</eco>
+        <strategy></strategy>
+        <note></note>
+        <variations>
+            <variation>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation-best-white>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation-best-white>
+            <variation-best-black>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation-best-black>
+        </variations>
+        <pros>
+            <pro>Creates unbalanced games</pro>
+            <pro>Black has good attacking chances</pro>
+            <pro>It's an excellent opening to play when you need to win</pro>
+        </pros>
+        <cons>
+            <con>White has many ways to meet the Sicilian</con>
+            <con>White gets great attacking chances in the main variations</con>
+            <con>There is a lot of theory</con>
+        </cons>
+    </opening>
+
+    <opening>
+        <name>Slav Defense</name>
+        <url>https://www.chess.com/openings/Slav-Defense</url>
+        <annotation>1.d4 d5 2.c4 c6</annotation>
+        <volume>Volume D: Closed Games and Semi-Closed Games</volume>
+        <eco>D10</eco>
+        <strategy>The Slav Defense is a solid opening for Black in response to White's Queen's Gambit</strategy>
+        <note></note>
+        <variations>
+            <variation>
+                <variation-name>Main Line</variation-name>
+                <variation-notation>1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.e3 e6 7.Bxc4</variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation>
+                <variation-name>Modern Line, Quiet Variation</variation-name>
+                <variation-notation>1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3</variation-notation>
+                <variation-notes>White can avoid learning heavy theory. Simple development and a solid pawn structure</variation-notes>
+            </variation>
+            <variation>
+                <variation-name>Semi-Slav</variation-name>
+                <variation-notation>1.d4 d5 2.c4 c6 3.Nf3 e6</variation-notation>
+                <variation-notes>Often leads to closed positions</variation-notes>
+            </variation>
+            <variation>
+                <variation-name>Chameleon (Chebanenko Slav)</variation-name>
+                <variation-notation>1.d4 d5 2. c4 c6 3.Nf3 Nf6 4.Nc3 a6</variation-notation>
+                <variation-notes>Black plays 4...a6 to support the b5-square.</variation-notes>
+            </variation>
+            <variation>
+                <variation-name>Exchange Variation</variation-name>
+                <variation-notation>1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.cxd5</variation-notation>
+                <variation-notes>The positions in this variation are very symmetrical, with little chance for either of the players to create serious threats.</variation-notes>
+            </variation>
+            <variation-best-white>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation-best-white>
+            <variation-best-black>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation-best-black>
+        </variations>
+        <pros>
+            <pro>The c8-bishop has a free diagonal to develop.</pro>
+            <pro>Black maintains a solid central point.</pro>
+            <pro>Black might capture the c4-pawn.</pro>
+        </pros>
+        <cons>
+            <con>Black's development is slower.</con>
+            <con>Hitting back with ...c5 will lose a move.</con>
+            <con>The c6-pawn blocks the natural development square of the knight.</con>
+        </cons>
+    </opening>
+
+
+    <opening>
+        <name>Vienna Game</name>
+        <url>https://www.chess.com/openings/Vienna-Game</url>
+        <annotation>1.e4 e5 2.Nc3</annotation>
+        <volume>Volume C: Open Games and the French Defence</volume>
+        <eco>C25</eco>
+        <strategy></strategy>
+        <note></note>
+        <variations>
+            <variation>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation-best-white>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation-best-white>
+            <variation-best-black>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation-best-black>
+        </variations>
+        <pros>
+            <pro>It is less theoretical than the Spanish or Italian openings</pro>
+            <pro>It avoids Petrov's Defense</pro>
+            <pro>White has strategically clear formations</pro>
+        </pros>
+        <cons>
+            <con>It puts less immediate pressure on Black</con>
+            <con>It blocks the c-pawn, making c2-c3 to prepare the d2-d4 push more difficult</con>
+        </cons>
+    </opening>
+
+    
+    <opening>
+        <name></name>
+        <url></url>
+        <annotation></annotation>
+        <volume></volume>
+        <eco></eco>
+        <strategy></strategy>
+        <note></note>
+        <variations>
+            <variation>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation>
+            <variation-best-white>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation-best-white>
+            <variation-best-black>
+                <variation-name></variation-name>
+                <variation-notation></variation-notation>
+                <variation-notes></variation-notes>
+            </variation-best-black>
+        </variations>
+        <pros>
+            <pro></pro>
+            <pro></pro>
+            <pro></pro>
+        </pros>
+        <cons>
+            <con></con>
+            <con></con>
+            <con></con>
+        </cons>
+    </opening>
+    
+</openings>
